@@ -1,0 +1,41 @@
+header{
+	background: #8FA68E;
+	margin-right:auto;
+	margin-left:auto;
+	overflow: hidden;
+}
+
+body{
+	background-color: beige;
+}
+
+h1 {
+    text-align: center;
+}
+.container{
+    padding: 20px;
+}
+
+footer{
+    background-color: #222;
+    padding: 3rem;
+    color: #fff;
+}
+
+footer section{
+    float: right;
+}
+
+footer a{
+    transition: color 0.3s ease;
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: cornflowerblue;
+}
+
+.fa-brands{
+    font-size: 32px;
+}
